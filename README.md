@@ -1,6 +1,11 @@
-# My third portfolio
+# 3D Lava with GLSL shaders
 
-This new portfolio is built using TypeScript, Three.js and GLSL.
+Lava created with Shaders to re-create the design from Stripe
+Original Link: https://stripe.com/au
+
+## Demo link
+
+https://lava-with-shader.vercel.app/
 
 ## What I learnt:
 
@@ -71,6 +76,12 @@ npm install
 
 ```bash
 npm run dev
+```
+
+**Commit changes with emojis**
+
+```bash
+npm run commit
 ```
 
 ## Dependencies:
